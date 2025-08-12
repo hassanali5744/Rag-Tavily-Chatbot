@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+langchain
+langchain-google-genai
+langchain-community
+langchain-core
+tavily-python
+chromadb
+sentence-transformers
+pydantic
+python-multipart
+mysql-connector-python
+numpy
